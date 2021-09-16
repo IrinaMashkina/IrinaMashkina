@@ -13,3 +13,7 @@
 <img src="./images/React.jpg" height="50">
 <img src="./images/VSC.png" height="50">
 </div>
+
+### Со мной можно связаться:
+> по email: irinamashkina@list.ru
+> по tg: https://t.me/IraMashkina
