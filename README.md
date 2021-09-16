@@ -15,5 +15,5 @@
 </div>
 
 ### Со мной можно связаться:
-> по email: irinamashkina@list.ru
-> по tg: https://t.me/IraMashkina
+* по email: irinamashkina@list.ru
+* по tg: https://t.me/IraMashkina
